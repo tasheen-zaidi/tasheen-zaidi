@@ -2,7 +2,7 @@
 
 # Hello, I'm Tasheen Zaidi👋
 
-I'm a passionate full stack web developer with expertise in building robust web applications and dynamic user experiences. My journey in programming began with [mention any interesting background or journey].
+I'm a passionate full stack web developer with expertise in building robust web applications and dynamic user experiences. My journey in programming began with a passion project and I have now transitioned into a full time Freelancer after gathering experience from multiple companies and projects.
 
 ## 🔧 Technologies & Tools
 
@@ -24,9 +24,7 @@ I'm currently focused on improving my skills in:
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Website: [Your Portfolio/Personal Website](https://yourwebsite.com)
+- Upwork: https://www.upwork.com/freelancers/~01a58b6a06d9b9491e
 
 
 
@@ -35,7 +33,6 @@ I'm currently focused on improving my skills in:
 In the near future, I aim to:
 
 - Contribute to more open-source projects
-- Learn [specific technology or skill]
 
 ## 🤝 Let's Connect!
 
@@ -43,12 +40,6 @@ I'm always open to discussing web development, technology, or collaborating on p
 
 ---
 
-### Inspirational Quote / Call to Action
+### A quote I am inspired by:
 
 "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
-
-### 📝 Note
-
-Feel free to customize this template to better suit your personality and experiences. Remember to keep it concise, engaging, and reflective of your skills and aspirations as a full stack web developer. Good luck with your GitHub profile!

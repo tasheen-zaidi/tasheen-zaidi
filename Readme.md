@@ -24,7 +24,7 @@ I'm currently focused on improving my skills in:
 
 ## 📫 How to Reach Me
 
-- Upwork: https://www.upwork.com/freelancers/~01a58b6a06d9b9491e
+- Upwork: https://www.upwork.com/freelancers/tasheenz
 
 
 
